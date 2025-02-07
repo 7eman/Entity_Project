@@ -1,0 +1,350 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MVC\\Entity_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F92AC09-0C86-42B2-A568-24A35783C7EE}|Entity_Project\\Entity_Project.csproj|d:\\mvc\\entity_project\\entity_project\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8F92AC09-0C86-42B2-A568-24A35783C7EE}|Entity_Project\\Entity_Project.csproj|solutionrelative:entity_project\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F92AC09-0C86-42B2-A568-24A35783C7EE}|Entity_Project\\Entity_Project.csproj|d:\\mvc\\entity_project\\entity_project\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F92AC09-0C86-42B2-A568-24A35783C7EE}|Entity_Project\\Entity_Project.csproj|solutionrelative:entity_project\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F92AC09-0C86-42B2-A568-24A35783C7EE}|Entity_Project\\Entity_Project.csproj|D:\\MVC\\Entity_Project\\entity_project\\managerentalitemsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8F92AC09-0C86-42B2-A568-24A35783C7EE}|Entity_Project\\Entity_Project.csproj|solutionrelative:entity_project\\managerentalitemsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F92AC09-0C86-42B2-A568-24A35783C7EE}|Entity_Project\\Entity_Project.csproj|d:\\mvc\\entity_project\\entity_project\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F92AC09-0C86-42B2-A568-24A35783C7EE}|Entity_Project\\Entity_Project.csproj|solutionrelative:entity_project\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F92AC09-0C86-42B2-A568-24A35783C7EE}|Entity_Project\\Entity_Project.csproj|d:\\mvc\\entity_project\\entity_project\\returnform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F92AC09-0C86-42B2-A568-24A35783C7EE}|Entity_Project\\Entity_Project.csproj|solutionrelative:entity_project\\returnform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F92AC09-0C86-42B2-A568-24A35783C7EE}|Entity_Project\\Entity_Project.csproj|d:\\mvc\\entity_project\\entity_project\\returnform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8F92AC09-0C86-42B2-A568-24A35783C7EE}|Entity_Project\\Entity_Project.csproj|solutionrelative:entity_project\\returnform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F92AC09-0C86-42B2-A568-24A35783C7EE}|Entity_Project\\Entity_Project.csproj|d:\\mvc\\entity_project\\entity_project\\rentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8F92AC09-0C86-42B2-A568-24A35783C7EE}|Entity_Project\\Entity_Project.csproj|solutionrelative:entity_project\\rentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F92AC09-0C86-42B2-A568-24A35783C7EE}|Entity_Project\\Entity_Project.csproj|d:\\mvc\\entity_project\\entity_project\\rentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F92AC09-0C86-42B2-A568-24A35783C7EE}|Entity_Project\\Entity_Project.csproj|solutionrelative:entity_project\\rentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F92AC09-0C86-42B2-A568-24A35783C7EE}|Entity_Project\\Entity_Project.csproj|D:\\MVC\\Entity_Project\\entity_project\\historyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8F92AC09-0C86-42B2-A568-24A35783C7EE}|Entity_Project\\Entity_Project.csproj|solutionrelative:entity_project\\historyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F92AC09-0C86-42B2-A568-24A35783C7EE}|Entity_Project\\Entity_Project.csproj|d:\\mvc\\entity_project\\entity_project\\historyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F92AC09-0C86-42B2-A568-24A35783C7EE}|Entity_Project\\Entity_Project.csproj|solutionrelative:entity_project\\historyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F92AC09-0C86-42B2-A568-24A35783C7EE}|Entity_Project\\Entity_Project.csproj|D:\\MVC\\Entity_Project\\entity_project\\browseitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8F92AC09-0C86-42B2-A568-24A35783C7EE}|Entity_Project\\Entity_Project.csproj|solutionrelative:entity_project\\browseitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F92AC09-0C86-42B2-A568-24A35783C7EE}|Entity_Project\\Entity_Project.csproj|d:\\mvc\\entity_project\\entity_project\\browseitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F92AC09-0C86-42B2-A568-24A35783C7EE}|Entity_Project\\Entity_Project.csproj|solutionrelative:entity_project\\browseitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F92AC09-0C86-42B2-A568-24A35783C7EE}|Entity_Project\\Entity_Project.csproj|D:\\MVC\\Entity_Project\\entity_project\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8F92AC09-0C86-42B2-A568-24A35783C7EE}|Entity_Project\\Entity_Project.csproj|solutionrelative:entity_project\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F92AC09-0C86-42B2-A568-24A35783C7EE}|Entity_Project\\Entity_Project.csproj|d:\\mvc\\entity_project\\entity_project\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F92AC09-0C86-42B2-A568-24A35783C7EE}|Entity_Project\\Entity_Project.csproj|solutionrelative:entity_project\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F92AC09-0C86-42B2-A568-24A35783C7EE}|Entity_Project\\Entity_Project.csproj|D:\\MVC\\Entity_Project\\entity_project\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8F92AC09-0C86-42B2-A568-24A35783C7EE}|Entity_Project\\Entity_Project.csproj|solutionrelative:entity_project\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F92AC09-0C86-42B2-A568-24A35783C7EE}|Entity_Project\\Entity_Project.csproj|d:\\mvc\\entity_project\\entity_project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F92AC09-0C86-42B2-A568-24A35783C7EE}|Entity_Project\\Entity_Project.csproj|solutionrelative:entity_project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F92AC09-0C86-42B2-A568-24A35783C7EE}|Entity_Project\\Entity_Project.csproj|D:\\MVC\\Entity_Project\\entity_project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8F92AC09-0C86-42B2-A568-24A35783C7EE}|Entity_Project\\Entity_Project.csproj|solutionrelative:entity_project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F92AC09-0C86-42B2-A568-24A35783C7EE}|Entity_Project\\Entity_Project.csproj|D:\\MVC\\Entity_Project\\entity_project\\manageusersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8F92AC09-0C86-42B2-A568-24A35783C7EE}|Entity_Project\\Entity_Project.csproj|solutionrelative:entity_project\\manageusersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F92AC09-0C86-42B2-A568-24A35783C7EE}|Entity_Project\\Entity_Project.csproj|d:\\mvc\\entity_project\\entity_project\\edit_profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F92AC09-0C86-42B2-A568-24A35783C7EE}|Entity_Project\\Entity_Project.csproj|solutionrelative:entity_project\\edit_profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F92AC09-0C86-42B2-A568-24A35783C7EE}|Entity_Project\\Entity_Project.csproj|d:\\mvc\\entity_project\\entity_project\\admin1.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{8F92AC09-0C86-42B2-A568-24A35783C7EE}|Entity_Project\\Entity_Project.csproj|solutionrelative:entity_project\\admin1.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DashboardForm.cs",
+              "DocumentMoniker": "D:\\MVC\\Entity_Project\\Entity_Project\\DashboardForm.cs",
+              "RelativeDocumentMoniker": "Entity_Project\\DashboardForm.cs",
+              "ToolTip": "D:\\MVC\\Entity_Project\\Entity_Project\\DashboardForm.cs",
+              "RelativeToolTip": "Entity_Project\\DashboardForm.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T08:00:16.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReturnForm.cs [Design]",
+              "DocumentMoniker": "D:\\MVC\\Entity_Project\\Entity_Project\\ReturnForm.cs",
+              "RelativeDocumentMoniker": "Entity_Project\\ReturnForm.cs",
+              "ToolTip": "D:\\MVC\\Entity_Project\\Entity_Project\\ReturnForm.cs [Design]",
+              "RelativeToolTip": "Entity_Project\\ReturnForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T09:06:10.807Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReturnForm.cs",
+              "DocumentMoniker": "D:\\MVC\\Entity_Project\\Entity_Project\\ReturnForm.cs",
+              "RelativeDocumentMoniker": "Entity_Project\\ReturnForm.cs",
+              "ToolTip": "D:\\MVC\\Entity_Project\\Entity_Project\\ReturnForm.cs",
+              "RelativeToolTip": "Entity_Project\\ReturnForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T09:06:23.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RentForm.cs [Design]",
+              "DocumentMoniker": "D:\\MVC\\Entity_Project\\Entity_Project\\RentForm.cs",
+              "RelativeDocumentMoniker": "Entity_Project\\RentForm.cs",
+              "ToolTip": "D:\\MVC\\Entity_Project\\Entity_Project\\RentForm.cs [Design]",
+              "RelativeToolTip": "Entity_Project\\RentForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T10:18:25.15Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminForm.cs [Design]",
+              "DocumentMoniker": "D:\\MVC\\Entity_Project\\Entity_Project\\AdminForm.cs",
+              "RelativeDocumentMoniker": "Entity_Project\\AdminForm.cs",
+              "ToolTip": "D:\\MVC\\Entity_Project\\Entity_Project\\AdminForm.cs [Design]",
+              "RelativeToolTip": "Entity_Project\\AdminForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T10:06:59.867Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminForm.cs",
+              "DocumentMoniker": "D:\\MVC\\Entity_Project\\Entity_Project\\AdminForm.cs",
+              "RelativeDocumentMoniker": "Entity_Project\\AdminForm.cs",
+              "ToolTip": "D:\\MVC\\Entity_Project\\Entity_Project\\AdminForm.cs",
+              "RelativeToolTip": "Entity_Project\\AdminForm.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAADAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T10:09:24.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ManageRentalItemsForm.cs [Design]",
+              "DocumentMoniker": "D:\\MVC\\Entity_Project\\Entity_Project\\ManageRentalItemsForm.cs",
+              "RelativeDocumentMoniker": "Entity_Project\\ManageRentalItemsForm.cs",
+              "ToolTip": "D:\\MVC\\Entity_Project\\Entity_Project\\ManageRentalItemsForm.cs [Design]",
+              "RelativeToolTip": "Entity_Project\\ManageRentalItemsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T20:53:14.065Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RentForm.cs",
+              "DocumentMoniker": "D:\\MVC\\Entity_Project\\Entity_Project\\RentForm.cs",
+              "RelativeDocumentMoniker": "Entity_Project\\RentForm.cs",
+              "ToolTip": "D:\\MVC\\Entity_Project\\Entity_Project\\RentForm.cs",
+              "RelativeToolTip": "Entity_Project\\RentForm.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAAAFMAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T07:58:52.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HistoryForm.cs [Design]",
+              "DocumentMoniker": "D:\\MVC\\Entity_Project\\Entity_Project\\HistoryForm.cs",
+              "RelativeDocumentMoniker": "Entity_Project\\HistoryForm.cs",
+              "ToolTip": "D:\\MVC\\Entity_Project\\Entity_Project\\HistoryForm.cs [Design]",
+              "RelativeToolTip": "Entity_Project\\HistoryForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T08:01:41.13Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HistoryForm.cs",
+              "DocumentMoniker": "D:\\MVC\\Entity_Project\\Entity_Project\\HistoryForm.cs",
+              "RelativeDocumentMoniker": "Entity_Project\\HistoryForm.cs",
+              "ToolTip": "D:\\MVC\\Entity_Project\\Entity_Project\\HistoryForm.cs",
+              "RelativeToolTip": "Entity_Project\\HistoryForm.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwDIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T09:43:45.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BrowseItems.cs [Design]",
+              "DocumentMoniker": "D:\\MVC\\Entity_Project\\Entity_Project\\BrowseItems.cs",
+              "RelativeDocumentMoniker": "Entity_Project\\BrowseItems.cs",
+              "ToolTip": "D:\\MVC\\Entity_Project\\Entity_Project\\BrowseItems.cs [Design]",
+              "RelativeToolTip": "Entity_Project\\BrowseItems.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T07:59:51.29Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BrowseItems.cs",
+              "DocumentMoniker": "D:\\MVC\\Entity_Project\\Entity_Project\\BrowseItems.cs",
+              "RelativeDocumentMoniker": "Entity_Project\\BrowseItems.cs",
+              "ToolTip": "D:\\MVC\\Entity_Project\\Entity_Project\\BrowseItems.cs",
+              "RelativeToolTip": "Entity_Project\\BrowseItems.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAkwFcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T07:59:55.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DashboardForm.cs [Design]",
+              "DocumentMoniker": "D:\\MVC\\Entity_Project\\Entity_Project\\DashboardForm.cs",
+              "RelativeDocumentMoniker": "Entity_Project\\DashboardForm.cs",
+              "ToolTip": "D:\\MVC\\Entity_Project\\Entity_Project\\DashboardForm.cs [Design]",
+              "RelativeToolTip": "Entity_Project\\DashboardForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T08:00:11.684Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RegisterForm.cs [Design]",
+              "DocumentMoniker": "D:\\MVC\\Entity_Project\\Entity_Project\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "Entity_Project\\RegisterForm.cs",
+              "ToolTip": "D:\\MVC\\Entity_Project\\Entity_Project\\RegisterForm.cs [Design]",
+              "RelativeToolTip": "Entity_Project\\RegisterForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T07:59:31.337Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Edit_Profile.cs",
+              "DocumentMoniker": "D:\\MVC\\Entity_Project\\Entity_Project\\Edit_Profile.cs",
+              "RelativeDocumentMoniker": "Entity_Project\\Edit_Profile.cs",
+              "ToolTip": "D:\\MVC\\Entity_Project\\Entity_Project\\Edit_Profile.cs",
+              "RelativeToolTip": "Entity_Project\\Edit_Profile.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAswGIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T08:01:32.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\MVC\\Entity_Project\\Entity_Project\\Form1.cs",
+              "RelativeDocumentMoniker": "Entity_Project\\Form1.cs",
+              "ToolTip": "D:\\MVC\\Entity_Project\\Entity_Project\\Form1.cs [Design]",
+              "RelativeToolTip": "Entity_Project\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T20:47:52.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ManageUsersForm.cs [Design]",
+              "DocumentMoniker": "D:\\MVC\\Entity_Project\\Entity_Project\\ManageUsersForm.cs",
+              "RelativeDocumentMoniker": "Entity_Project\\ManageUsersForm.cs",
+              "ToolTip": "D:\\MVC\\Entity_Project\\Entity_Project\\ManageUsersForm.cs [Design]",
+              "RelativeToolTip": "Entity_Project\\ManageUsersForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T20:54:40.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\MVC\\Entity_Project\\Entity_Project\\Form1.cs",
+              "RelativeDocumentMoniker": "Entity_Project\\Form1.cs",
+              "ToolTip": "D:\\MVC\\Entity_Project\\Entity_Project\\Form1.cs",
+              "RelativeToolTip": "Entity_Project\\Form1.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T08:48:47.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RegisterForm.cs",
+              "DocumentMoniker": "D:\\MVC\\Entity_Project\\Entity_Project\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "Entity_Project\\RegisterForm.cs",
+              "ToolTip": "D:\\MVC\\Entity_Project\\Entity_Project\\RegisterForm.cs",
+              "RelativeToolTip": "Entity_Project\\RegisterForm.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T07:59:34.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "admin1.png - PNG [860x672, 32 bit, PNG]",
+              "DocumentMoniker": "D:\\MVC\\Entity_Project\\Entity_Project\\admin1.png",
+              "RelativeDocumentMoniker": "Entity_Project\\admin1.png",
+              "ToolTip": "D:\\MVC\\Entity_Project\\Entity_Project\\admin1.png - PNG [860x672, 32 bit, PNG]",
+              "RelativeToolTip": "Entity_Project\\admin1.png - PNG [860x672, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-02-06T07:59:41.993Z",
+              "EditorCaption": " - PNG [860x672, 32 bit, PNG]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
