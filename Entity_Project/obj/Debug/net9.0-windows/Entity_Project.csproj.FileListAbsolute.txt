@@ -155,3 +155,4 @@ D:\MVC\Entity_Project\Entity_Project\obj\Debug\net9.0-windows\Entity_Project.Das
 D:\MVC\Entity_Project\Entity_Project\obj\Debug\net9.0-windows\Entity_Project.ManageRentalItemsForm.resources
 D:\MVC\Entity_Project\Entity_Project\obj\Debug\net9.0-windows\Entity_Project.ManageUsersForm.resources
 D:\MVC\Entity_Project\Entity_Project\obj\Debug\net9.0-windows\Entity_Project.Properties.Resources.resources
+D:\MVC\Entity_Project\Entity_Project\obj\Debug\net9.0-windows\Entity_Project.sourcelink.json

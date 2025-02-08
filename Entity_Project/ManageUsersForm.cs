@@ -14,11 +14,13 @@ namespace Entity_Project
     public partial class ManageUsersForm : Form
     {
         private AppDbContext context;
+        private User currentAdmin;
 
-        public ManageUsersForm()
+        public ManageUsersForm(User adminUser)
         {
             InitializeComponent();
             context = new AppDbContext();
+            currentAdmin = adminUser;
             LoadUsers();
         }
         private void LoadUsers()
@@ -51,6 +53,7 @@ namespace Entity_Project
             context.SaveChanges();
             MessageBox.Show("User Added Successfully!");
             LoadUsers();
+            ClearFields();
         }
 
         private void btnDeleteUser_Click(object sender, EventArgs e)
@@ -66,6 +69,7 @@ namespace Entity_Project
                     context.SaveChanges();
                     MessageBox.Show("User Deleted Successfully!");
                     LoadUsers();
+                    ClearFields();
                 }
             }
             else
@@ -91,6 +95,7 @@ namespace Entity_Project
                     context.SaveChanges();
                     MessageBox.Show("User Updated Successfully!");
                     LoadUsers();
+                    ClearFields();
                 }
             }
             else
@@ -102,7 +107,7 @@ namespace Entity_Project
         private void btnBack_Click(object sender, EventArgs e)
         {
             this.Hide();
-            AdminForm AdminForm = new AdminForm();
+            AdminForm AdminForm = new AdminForm(currentAdmin);
             AdminForm.Show();
         }
 
@@ -114,6 +119,13 @@ namespace Entity_Project
                 textEmail.Text = dgvUsers.Rows[e.RowIndex].Cells["Email"].Value.ToString();
                 chkIsAdmin.Checked = (bool)dgvUsers.Rows[e.RowIndex].Cells["IsAdmin"].Value;
             }
+        }
+        private void ClearFields()
+        {
+            txtFullName.Clear();
+            textEmail.Clear();
+            textPassword.Clear();
+            chkIsAdmin.Checked = false;
         }
     }
 }

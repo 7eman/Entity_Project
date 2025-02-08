@@ -16,9 +16,11 @@ namespace Entity_Project
     public partial class ManageRentalItemsForm : Form
     {
         private string connectionString = "Server=DESKTOP-SPT5GG8\\SQLEXPRESS;Database=RentalDB;Trusted_Connection=True;trust server certificate=true";
-        public ManageRentalItemsForm()
+        private User currentAdmin;
+        public ManageRentalItemsForm(User adminUser)
         {
             InitializeComponent();
+            currentAdmin = adminUser;
             LoadRentalItems();
         }
         private void LoadRentalItems()
@@ -34,7 +36,7 @@ namespace Entity_Project
         private void btnBack_Click(object sender, EventArgs e)
         {
             this.Hide();
-            AdminForm AdminForm = new AdminForm();
+            AdminForm AdminForm = new AdminForm(currentAdmin);
             AdminForm.Show();
         }
 

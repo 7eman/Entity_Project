@@ -29,85 +29,100 @@
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(AdminForm));
-            lblAdminPanel = new Label();
-            btnManageUsers = new Button();
-            btnManageItems = new Button();
-            btnBack = new Button();
+            label1 = new Label();
+            ManageRentalItems_btn = new Button();
+            ShowProfile_btn = new Button();
+            ManageUsers_btn = new Button();
+            LogOut_btn = new Button();
             pictureBox1 = new PictureBox();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             SuspendLayout();
             // 
-            // lblAdminPanel
+            // label1
             // 
-            lblAdminPanel.AutoSize = true;
-            lblAdminPanel.Font = new Font("Showcard Gothic", 14.25F, FontStyle.Italic, GraphicsUnit.Point, 0);
-            lblAdminPanel.ForeColor = Color.Blue;
-            lblAdminPanel.Location = new Point(502, 50);
-            lblAdminPanel.Name = "lblAdminPanel";
-            lblAdminPanel.Size = new Size(132, 23);
-            lblAdminPanel.TabIndex = 0;
-            lblAdminPanel.Text = "Admin Panel";
+            label1.AutoSize = true;
+            label1.Font = new Font("Showcard Gothic", 15.75F, FontStyle.Italic, GraphicsUnit.Point, 0);
+            label1.ForeColor = Color.Blue;
+            label1.Location = new Point(475, 39);
+            label1.Name = "label1";
+            label1.Size = new Size(146, 27);
+            label1.TabIndex = 0;
+            label1.Text = "Admin Panel";
             // 
-            // btnManageUsers
+            // ManageRentalItems_btn
             // 
-            btnManageUsers.BackColor = SystemColors.GradientActiveCaption;
-            btnManageUsers.Font = new Font("Showcard Gothic", 9F, FontStyle.Italic, GraphicsUnit.Point, 0);
-            btnManageUsers.ForeColor = Color.Blue;
-            btnManageUsers.Location = new Point(476, 227);
-            btnManageUsers.Name = "btnManageUsers";
-            btnManageUsers.Size = new Size(114, 23);
-            btnManageUsers.TabIndex = 1;
-            btnManageUsers.Text = "Manage Users";
-            btnManageUsers.UseVisualStyleBackColor = false;
-            btnManageUsers.Click += btnManageUsers_Click;
+            ManageRentalItems_btn.BackColor = SystemColors.GradientActiveCaption;
+            ManageRentalItems_btn.Font = new Font("Showcard Gothic", 9F, FontStyle.Italic, GraphicsUnit.Point, 0);
+            ManageRentalItems_btn.ForeColor = Color.Blue;
+            ManageRentalItems_btn.Location = new Point(605, 120);
+            ManageRentalItems_btn.Name = "ManageRentalItems_btn";
+            ManageRentalItems_btn.Size = new Size(160, 23);
+            ManageRentalItems_btn.TabIndex = 1;
+            ManageRentalItems_btn.Text = "Manage Rental Items";
+            ManageRentalItems_btn.UseVisualStyleBackColor = false;
+            ManageRentalItems_btn.Click += ManageRentalItems_btn_Click;
             // 
-            // btnManageItems
+            // ShowProfile_btn
             // 
-            btnManageItems.BackColor = SystemColors.GradientActiveCaption;
-            btnManageItems.Font = new Font("Showcard Gothic", 9F, FontStyle.Italic, GraphicsUnit.Point, 0);
-            btnManageItems.ForeColor = Color.Blue;
-            btnManageItems.Location = new Point(611, 161);
-            btnManageItems.Name = "btnManageItems";
-            btnManageItems.Size = new Size(163, 23);
-            btnManageItems.TabIndex = 2;
-            btnManageItems.Text = "Manage Rental Items";
-            btnManageItems.UseVisualStyleBackColor = false;
-            btnManageItems.Click += btnManageItems_Click;
+            ShowProfile_btn.BackColor = SystemColors.GradientActiveCaption;
+            ShowProfile_btn.Font = new Font("Showcard Gothic", 9F, FontStyle.Italic, GraphicsUnit.Point, 0);
+            ShowProfile_btn.ForeColor = Color.Blue;
+            ShowProfile_btn.Location = new Point(381, 248);
+            ShowProfile_btn.Name = "ShowProfile_btn";
+            ShowProfile_btn.Size = new Size(110, 23);
+            ShowProfile_btn.TabIndex = 2;
+            ShowProfile_btn.Text = "Show Profile";
+            ShowProfile_btn.UseVisualStyleBackColor = false;
+            ShowProfile_btn.Click += ShowProfile_btn_Click;
             // 
-            // btnBack
+            // ManageUsers_btn
             // 
-            btnBack.BackColor = SystemColors.GradientActiveCaption;
-            btnBack.Font = new Font("Showcard Gothic", 9F, FontStyle.Italic, GraphicsUnit.Point, 0);
-            btnBack.ForeColor = Color.Blue;
-            btnBack.Location = new Point(390, 299);
-            btnBack.Name = "btnBack";
-            btnBack.Size = new Size(75, 23);
-            btnBack.TabIndex = 3;
-            btnBack.Text = "Log Out";
-            btnBack.UseVisualStyleBackColor = false;
-            btnBack.Click += btnBack_Click;
+            ManageUsers_btn.BackColor = SystemColors.GradientActiveCaption;
+            ManageUsers_btn.Font = new Font("Showcard Gothic", 9F, FontStyle.Italic, GraphicsUnit.Point, 0);
+            ManageUsers_btn.ForeColor = Color.Blue;
+            ManageUsers_btn.Location = new Point(508, 185);
+            ManageUsers_btn.Name = "ManageUsers_btn";
+            ManageUsers_btn.Size = new Size(113, 23);
+            ManageUsers_btn.TabIndex = 3;
+            ManageUsers_btn.Text = "Manage Users";
+            ManageUsers_btn.UseVisualStyleBackColor = false;
+            ManageUsers_btn.Click += ManageUsers_btn_Click;
+            // 
+            // LogOut_btn
+            // 
+            LogOut_btn.BackColor = SystemColors.GradientActiveCaption;
+            LogOut_btn.Font = new Font("Showcard Gothic", 9F, FontStyle.Italic, GraphicsUnit.Point, 0);
+            LogOut_btn.ForeColor = Color.Blue;
+            LogOut_btn.Location = new Point(684, 327);
+            LogOut_btn.Name = "LogOut_btn";
+            LogOut_btn.Size = new Size(81, 23);
+            LogOut_btn.TabIndex = 4;
+            LogOut_btn.Text = "Log Out";
+            LogOut_btn.UseVisualStyleBackColor = false;
+            LogOut_btn.Click += LogOut_btn_Click;
             // 
             // pictureBox1
             // 
             pictureBox1.Image = (Image)resources.GetObject("pictureBox1.Image");
-            pictureBox1.Location = new Point(1, 1);
+            pictureBox1.Location = new Point(1, -1);
             pictureBox1.Name = "pictureBox1";
-            pictureBox1.Size = new Size(364, 449);
+            pictureBox1.Size = new Size(352, 452);
             pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
-            pictureBox1.TabIndex = 4;
+            pictureBox1.TabIndex = 5;
             pictureBox1.TabStop = false;
             // 
             // AdminForm
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            BackColor = Color.MediumTurquoise;
+            BackColor = Color.LightSteelBlue;
             ClientSize = new Size(800, 450);
             Controls.Add(pictureBox1);
-            Controls.Add(btnBack);
-            Controls.Add(btnManageItems);
-            Controls.Add(btnManageUsers);
-            Controls.Add(lblAdminPanel);
+            Controls.Add(LogOut_btn);
+            Controls.Add(ManageUsers_btn);
+            Controls.Add(ShowProfile_btn);
+            Controls.Add(ManageRentalItems_btn);
+            Controls.Add(label1);
             Name = "AdminForm";
             Text = "AdminForm";
             Load += AdminForm_Load;
@@ -118,10 +133,11 @@
 
         #endregion
 
-        private Label lblAdminPanel;
-        private Button btnManageUsers;
-        private Button btnManageItems;
-        private Button btnBack;
+        private Label label1;
+        private Button ManageRentalItems_btn;
+        private Button ShowProfile_btn;
+        private Button ManageUsers_btn;
+        private Button LogOut_btn;
         private PictureBox pictureBox1;
     }
 }

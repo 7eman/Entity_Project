@@ -44,15 +44,26 @@ namespace Entity_Project
 
         private void btnEditProfile_Click(object sender, EventArgs e)
         {
-            Edit_Profile editProfileForm = new Edit_Profile(currentUser, this);  
-            editProfileForm.Show();
+            this.Hide();
+            Edit_Profile editProfileForm = new Edit_Profile(currentUser, this);
+            editProfileForm.ShowDialog();
+            this.Show();
         }
 
         private void btnBack_Click(object sender, EventArgs e)
         {
             this.Hide();
-            DashboardForm dashboardForm = new DashboardForm(currentUser);
-            dashboardForm.Show();
+
+            if (currentUser.IsAdmin)
+            {
+                AdminForm adminForm = new AdminForm(currentUser);  
+                adminForm.Show();
+            }
+            else
+            {
+                DashboardForm dashboardForm = new DashboardForm(currentUser);  
+                dashboardForm.Show();
+            }
         }
     }
 }

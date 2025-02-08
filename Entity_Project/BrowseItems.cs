@@ -64,23 +64,7 @@ namespace Entity_Project
                 MessageBox.Show("Please select an item to rent.");
             }
         }
-        //private RentalItem GetRentalItemById(int id)
-        //{
-        //    // Get the RentalItem by ID from the list
-        //    return rentalItems.FirstOrDefault(r => r.Id == id);
-        //}
-
-        //private List<RentalItem> GetAvailableRentalItems()
-        //{
-        //    using (var context = new AppDbContext())
-        //    {
-        //        // Fetch available rental items
-        //        return context.RentalItems
-        //                       .Where(item => item.IsAvailable)
-        //                       .ToList(); // Convert to List<RentalItem>
-        //    }
-        //}
-
+        
         private void btnBack_Click(object sender, EventArgs e)
         {
             this.Hide();

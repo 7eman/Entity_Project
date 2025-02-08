@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
@@ -13,28 +14,36 @@ namespace Entity_Project
 {
     public partial class AdminForm : Form
     {
-        
-        public AdminForm( )
+        private User currentAdmin;
+        public AdminForm(User adminUser)
         {
             InitializeComponent();
-           
+            currentAdmin = adminUser;
+
         }
 
-        private void btnManageUsers_Click(object sender, EventArgs e)
+        private void ManageRentalItems_btn_Click(object sender, EventArgs e)
         {
             this.Hide();
-            ManageUsersForm usersForm = new ManageUsersForm();
-            usersForm.Show();
-        }
-
-        private void btnManageItems_Click(object sender, EventArgs e)
-        {
-            this.Hide();
-            ManageRentalItemsForm itemsForm = new ManageRentalItemsForm();
+            ManageRentalItemsForm itemsForm = new ManageRentalItemsForm(currentAdmin);
             itemsForm.Show();
         }
 
-        private void btnBack_Click(object sender, EventArgs e)
+        private void ManageUsers_btn_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            ManageUsersForm usersForm = new ManageUsersForm(currentAdmin);
+            usersForm.Show();
+        }
+
+        private void ShowProfile_btn_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            ShowProfileForm profileForm = new ShowProfileForm(currentAdmin);
+            profileForm.Show();
+        }
+
+        private void LogOut_btn_Click(object sender, EventArgs e)
         {
             this.Hide();
             login loginForm = new login();
@@ -45,7 +54,5 @@ namespace Entity_Project
         {
 
         }
-
-        
     }
 }
